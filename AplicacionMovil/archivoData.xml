@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elementosMultimedia>
+	<marcador nombre="">
+		<elementoMultimedia category="texto">
+			<texto url="http://" color="#FFFF" size="42" fuente="Arial" posicion="arriba"/>
+		</elementoMultimedia>
+	</marcador>
+	
+	<marcador nombre="">
+		<elementoMultimedia category="video">
+			<video url="http://" posicion="" alto="" ancho=""/>
+		</elementoMultimedia>
+	</marcador>
+
+	<marcador nombre="">
+ 		<elementoMultimedia category="imagen">
+			<imagen url="http://" posicion="" alto="" ancho=""/>
+			<marcador nombre=""/>
+		</elementoMultimedia>
+	</marcador>
+
+	<marcador nombre="">
+		<elementoMultimedia category="modelo">
+			<modelo url="http://modelo.ply" posicion="" alto="" ancho="" />
+			<textura url="http:://textura.png"/>
+		</elementoMultimedia>
+	</marcador>
+</elementosMultimedia>
