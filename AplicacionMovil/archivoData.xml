@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
-	<marcador nombre="">
+	<marcador nombre="m1">
 		<elementoMultimedia category="texto">
-			<texto url="http://" color="#FFFF" size="42" fuente="Arial" posicion="arriba"/>
+			<texto url="http://1.com" color="#FFFF44" size="42" fuente="Arial" posicion="arriba"/>
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="">
+	<marcador nombre="m2">
 		<elementoMultimedia category="video">
-			<video url="http://" posicion="" alto="" ancho=""/>
+			<video url="http://2.com" posicion="enMedio" alto="1000" ancho="299"/>
 		</elementoMultimedia>
 	</marcador>
 
-	<marcador nombre="">
+	<marcador nombre="m3">
  		<elementoMultimedia category="imagen">
-			<imagen url="http://" posicion="" alto="" ancho=""/>
-			<marcador nombre=""/>
+			<imagen url="http://3.com" posicion="abajo" alto="120" ancho="100s"/>
+	<marcador/>
+	
+	<marcador nombre="m4">
+		<elementoMultimedia category="modelo">
+			<modelo url="http://4.com" posicion="arriba" alto="300" ancho="200" urlTextura ="http://textutaModelo.com" />
+		</elementoMultimedia>
+	</marcador>
+	
+	<marcador nombre="m5">
+		<elementoMultimedia category="audio">
+			<video url="http://5.com" formato=".mp3" />
 		</elementoMultimedia>
 	</marcador>
 
-	<marcador nombre="">
-		<elementoMultimedia category="modelo">
-			<modelo url="http://modelo.ply" posicion="" alto="" ancho="" />
-			<textura url="http:://textura.png"/>
-		</elementoMultimedia>
-	</marcador>
 </elementosMultimedia>
