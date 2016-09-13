@@ -27,7 +27,7 @@
 	
 	<marcador nombre="m5">
 		<elementoMultimedia category="audio">
-			<video url="http://5.com" formato=".mp3" />
+			<audio url="http://5.com" formato=".mp3" />
 		</elementoMultimedia>
 	</marcador>
 
