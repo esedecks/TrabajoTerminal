@@ -17,7 +17,7 @@
  		<elementoMultimedia category="imagen">
 			<imagen url="http://3.com" posicion="abajo" alto="120" ancho="100s"/>
 		</elementoMultimedia>
-	<marcador/>
+	</marcador>
 	
 	<marcador nombre="m4">
 		<elementoMultimedia category="modelo">
