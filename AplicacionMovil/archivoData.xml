@@ -54,7 +54,7 @@
 	</marcador>
 	
 	<!--Audio de prueba-->
-	<marcador nombre="m5">
+	<marcador nombre="m9">
 		<elementoMultimedia category="audio">
 			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/pista1.mp3" formato=".mp3" />
 		</elementoMultimedia>
