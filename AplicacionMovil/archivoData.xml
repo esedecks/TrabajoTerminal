@@ -1,33 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
-
+	<!--Textos de prueba-->
 	<marcador nombre="m1">
 		<elementoMultimedia category="texto">
-			<texto url="http://1.com" color="#FFFF44" size="42" fuente="Arial" posicion="arriba"/>
+			<texto url="http://texto1.txt" color="#FFFF44" size="42" fuente="Arial" posicion="arriba"/>
 		</elementoMultimedia>
 	</marcador>
 	
 	<marcador nombre="m2">
-		<elementoMultimedia category="video">
-			<video url="http://2.com" posicion="enMedio" alto="1000" ancho="299"/>
+		<elementoMultimedia category="texto">
+			<texto url="http://texto2.txt" color="#FFFF44" size="30" fuente="Arial" posicion="arriba"/>
 		</elementoMultimedia>
 	</marcador>
 
+
+	<!--Videos de prueba-->
 	<marcador nombre="m3">
- 		<elementoMultimedia category="imagen">
-			<imagen url="http://3.com" posicion="abajo" alto="120" ancho="100s"/>
+		<elementoMultimedia category="video">
+			<video url="http://video1.MP4" posicion="enMedio" alto="1000" ancho="299"/>
+		</elementoMultimedia>
+	</marcador>
+
+	<marcador nombre="m4">
+		<elementoMultimedia category="video">
+			<video url="http://video2.MP4" posicion="enMedio" alto="1000" ancho="299"/>
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="m4">
+
+	<!--imagenes de prueba-->
+	<marcador nombre="m5">
+ 		<elementoMultimedia category="imagen">
+			<imagen url="http://bascula.JPG" posicion="abajo" alto="120" ancho="100s"/>
+		</elementoMultimedia>
+	</marcador>
+	<marcador nombre="m6">
+ 		<elementoMultimedia category="imagen">
+			<imagen url="http://buzonCasa.JPG" posicion="abajo" alto="120" ancho="100s"/>
+		</elementoMultimedia>
+	</marcador>
+	
+	<!--Modelos de prueba-->
+
+	<marcador nombre="m7">
 		<elementoMultimedia category="modelo">
-			<modelo url="http://4.com" posicion="arriba" alto="300" ancho="200" urlTextura ="http://textutaModelo.com" />
+			<modelo url="http://modelo1.ply" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+		</elementoMultimedia>
+	</marcador>
+	<marcador nombre="m8">
+		<elementoMultimedia category="modelo">
+			<modelo url="http://modelo2_monkey.ply" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
 		</elementoMultimedia>
 	</marcador>
 	
 	<marcador nombre="m5">
 		<elementoMultimedia category="audio">
-			<audio url="http://5.com" formato=".mp3" />
+			<audio url="http://pista1.mp3" formato=".mp3" />
 		</elementoMultimedia>
 	</marcador>
 
