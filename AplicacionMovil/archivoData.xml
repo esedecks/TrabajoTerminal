@@ -44,12 +44,12 @@
 
 	<marcador nombre="m7">
 		<elementoMultimedia category="modelo">
-			<modelo url="esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/modelo1.ply" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+			<modelo url="esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tringulos.datos" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
 		</elementoMultimedia>
 	</marcador>
 	<marcador nombre="m8">
 		<elementoMultimedia category="modelo">
-			<modelo url="esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/modelo2_monkey.ply" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+			<modelo url="esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.datos" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
 		</elementoMultimedia>
 	</marcador>
 	
