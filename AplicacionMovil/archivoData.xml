@@ -42,12 +42,12 @@
 	
 	<!--Modelos de prueba-->
 
-	<marcador nombre="m7">
+	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo">
 			<modelo url="esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tringulos.datos" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
 		</elementoMultimedia>
 	</marcador>
-	<marcador nombre="m8">
+	<marcador nombre="chips">
 		<elementoMultimedia category="modelo">
 			<modelo url="esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.datos" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
 		</elementoMultimedia>
