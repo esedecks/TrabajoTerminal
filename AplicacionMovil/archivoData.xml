@@ -53,11 +53,6 @@
 		</elementoMultimedia>
 	</marcador>
 
-	<marcador nombre="stones">
-		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
-		</elementoMultimedia>
-	</marcador>
 
 	<marcador nombre="wood">
 		<elementoMultimedia category="modelo">
