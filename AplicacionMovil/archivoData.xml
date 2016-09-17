@@ -57,7 +57,7 @@
 
 	<marcador nombre="wood">
 		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tazaTe.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
 		</elementoMultimedia>
 	</marcador>
 
