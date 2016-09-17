@@ -57,19 +57,10 @@
 
 	<marcador nombre="wood">
 		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
 		</elementoMultimedia>
 	</marcador>
-	<marcador nombre="chips">
-		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
-		</elementoMultimedia>
-	</marcador>
-	<marcador nombre="rocas_intef">
-		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
-		</elementoMultimedia>
-	</marcador>
+
 
 
 	<!--Audio de prueba-->
