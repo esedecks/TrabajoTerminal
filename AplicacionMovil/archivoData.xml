@@ -3,13 +3,26 @@
 	<!--Textos de prueba-->
 	<marcador nombre="m1">
 		<elementoMultimedia category="texto">
-			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" color="#FFFF44" size="42" fuente="Arial" posicion="arriba"/>
+			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
+				   color="#FFFF44" 
+				   size="42" 
+				   fuente="Arial" 
+				   posicionFicha="arriba"
+				   ficha="<html><body><h1>Hola mundo</h1> </body> </html>"
+				   fichaSize="1dp"
+				   />
 		</elementoMultimedia>
 	</marcador>
 	
 	<marcador nombre="m2">
 		<elementoMultimedia category="texto">
-			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" color="#FFFF44" size="30" fuente="Arial" posicion="arriba"/>
+			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" color="#FFFF44" 
+		    size="30" 
+		    fuente="Arial" 
+		    posicionFicha="arriba"
+		    ficha="<html><body><h1>Hola mundo</h1> </body> </html>"
+		    fichaSize="1dp"
+		    />
 		</elementoMultimedia>
 	</marcador>
 
@@ -17,13 +30,28 @@
 	<!--Videos de prueba-->
 	<marcador nombre="m3">
 		<elementoMultimedia category="video">
-			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video1.MP4" posicion="enMedio" alto="1000" ancho="299"/>
+			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video1.MP4" 
+				   posicion="abajo" 
+				   alto="200" 
+				   ancho="200"
+				   posicionFicha="arriba"
+				   ficha="http://www.google.com"
+				   fichaSize="1dp"
+				   />
 		</elementoMultimedia>
 	</marcador>
 
 	<marcador nombre="m4">
 		<elementoMultimedia category="video">
-			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video2.MP4" posicion="enMedio" alto="1000" ancho="299"/>
+			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video2.MP4" 
+				   posicion="abajo" 
+				   alto="200" 
+				   ancho="299"
+				   posicionFicha="arriba"
+				   ficha="http://www.google.com"
+				   fichaSize="1dp"
+
+				   />
 		</elementoMultimedia>
 	</marcador>
 	
@@ -31,12 +59,24 @@
 	<!--imagenes de prueba-->
 	<marcador nombre="m5">
  		<elementoMultimedia category="imagen">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" posicion="abajo" alto="120" ancho="100s"/>
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" 
+				    alto="120" 
+				    ancho="100"
+				    posicionFicha="abajo"
+                    ficha="http://www.google.com"
+				    fichaSize="3dp"
+				    />
 		</elementoMultimedia>
 	</marcador>
 	<marcador nombre="m6">
  		<elementoMultimedia category="imagen">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/buzonCasa.JPG" posicion="abajo" alto="120" ancho="100s"/>
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/buzonCasa.JPG" 
+				    alto="120" 
+				    ancho="100"
+				    posicionFicha="abajo"
+                    ficha="http://www.google.com"
+				    fichaSize="3dp"
+				    />
 		</elementoMultimedia>
 	</marcador>
 	
@@ -44,20 +84,38 @@
 
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/triangulos.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/triangulos.txt" 
+				    escala="50.3f"
+				    urlTextura="sinTextura"
+				    posicionFicha="arriba" 
+				    ficha="http://www.google.com"
+				    fichaSize="1dp"
+				     />
 		</elementoMultimedia>
 	</marcador>
 	
 	<marcador nombre="chips">
 		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.txt" 
+				    escala="50.3f"
+				    urlTextura="sinTextura"
+				    posicionFicha="arriba" 
+				    ficha="http://www.google.com"
+				    fichaSize="1dp"
+				    />
 		</elementoMultimedia>
 	</marcador>
 
 
 	<marcador nombre="wood">
 		<elementoMultimedia category="modelo">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" posicion="arriba" alto="300" ancho="200" urlTextura ="sinTextura" />
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" 
+				    escala="50.3f"
+				    urlTextura="sinTextura"
+				    posicionFicha="arriba" 
+				    ficha="http://www.google.com"
+				    fichaSize="1dmp"
+				     />
 		</elementoMultimedia>
 	</marcador>
 
@@ -66,7 +124,10 @@
 	<!--Audio de prueba-->
 	<marcador nombre="m9">
 		<elementoMultimedia category="audio">
-			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/pista1.mp3" formato=".mp3" />
+			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/pista1.mp3" 
+				   posicionFicha="arriba" 
+				   ficha="http://www.google.com"
+				   fichaSize="1dmp" />
 		</elementoMultimedia>
 	</marcador>
 
