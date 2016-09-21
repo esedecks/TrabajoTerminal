@@ -4,7 +4,7 @@
 	<marcador nombre="m1">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
-				   		    ficha="*html**body**h1*Hola mundo*/h1* */body* */html*"
+				   		    ficha="*html+*body+*h1+Hola mundo*/h1+ */body+ */html+"
 				            fichaSize="1dp">
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
 				   color="#FFFF44" 
@@ -18,9 +18,10 @@
 	<marcador nombre="m2">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
-		                    ficha="*html**body**h1*Hola mundo*/h1* */body* */html*"
+		                    ficha="*html+*body+*h1+Hola mundo*/h1+ */body+ */html+"
 		    			    fichaSize="1dp">
-			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" color="#FFFF44" 
+			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" 
+				   color="#FFFF44" 
 		    	   size="30" 
 		           fuente="Arial"
 		           />
@@ -82,8 +83,8 @@
 
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo" 
-						    posicionFicha="arriba" 
-				    	    ficha="http://www.google.com"
+						    posicionFicha="abajo" 
+				    	    ficha="*html+*body+*h1+Hola mundo*/h1+ */body+ */html+"
 				    	    fichaSize="1dp">
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/triangulos.txt" 
 				    escala="50.3f"
