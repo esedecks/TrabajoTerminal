@@ -72,7 +72,7 @@
  						    posicionFicha="abajo"
 		                    ficha="http://www.google.com"
 						    fichaSize="3dp">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/buzonCasa.JPG" 
+			<imagen url="https://es.wikipedia.org/wiki/La_Gioconda" 
 				    alto="120" 
 				    ancho="100"
 				    />
