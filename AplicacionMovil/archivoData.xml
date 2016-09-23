@@ -67,7 +67,7 @@
 				    />
 		</elementoMultimedia>
 	</marcador>
-	<marcador nombre="marker_monalisa">
+	<marcador nombre="rocas_inte">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
 		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
@@ -81,7 +81,7 @@
 	
 	<!--Modelos de prueba-->
 
-	<marcador nombre="rocas_intef">
+	<marcador nombre="rocas_inte">
 		<elementoMultimedia category="modelo" 
 						    posicionFicha="abajo" 
 				    	    ficha="*html+*body+*h1+Hola mundo*/h1+*h2+1200 A.C a 1100 A.C*/h2+*p+Esto es una descripción para el elemento Multimedia*p+ */body+ */html+"
