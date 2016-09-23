@@ -67,7 +67,7 @@
 				    />
 		</elementoMultimedia>
 	</marcador>
-	<marcador nombre="rocas_inte">
+	<marcador nombre="rocas_intef">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
 		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
