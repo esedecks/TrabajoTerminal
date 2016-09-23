@@ -84,7 +84,7 @@
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo" 
 						    posicionFicha="abajo" 
-				    	    ficha="*html+*body+*h1+Hola mundo*/h1+ */body+ */html+"
+				    	    ficha="*html+*body+*h1+Hola mundo*/h1+*h2+1200 A.C a 1100 A.C*/h2+*p+Esto es una descripción para el elemento Multimedia*p+ */body+ */html+"
 				    	    fichaSize="1dp">
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/triangulos.txt" 
 				    escala="50.3f"
