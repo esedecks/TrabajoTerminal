@@ -61,7 +61,7 @@
  						    posicionFicha="abajo"
 		                    ficha="http://www.google.com"
 						    fichaSize="3dp">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" 
+			<imagen url="" 
 				    alto="120" 
 				    ancho="100"
 				    />
@@ -70,9 +70,9 @@
 	<marcador nombre="marker_monalisa">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
-		                    ficha="http://www.google.com"
+		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
 						    fichaSize="3dp">
-			<imagen url="https://es.wikipedia.org/wiki/La_Gioconda" 
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" 
 				    alto="120" 
 				    ancho="100"
 				    />
