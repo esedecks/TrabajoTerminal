@@ -71,7 +71,7 @@
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
 		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
-						    fichaSize="3dp">
+						    fichaSize="4dp">
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" 
 				    alto="120" 
 				    ancho="100"
