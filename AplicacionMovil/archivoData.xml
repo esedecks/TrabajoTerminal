@@ -73,8 +73,8 @@
 		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
 						    fichaSize="4dp">
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" 
-				    alto="120" 
-				    ancho="100"
+				    alto="1320" 
+				    ancho="1300"
 				    />
 		</elementoMultimedia>
 	</marcador>
