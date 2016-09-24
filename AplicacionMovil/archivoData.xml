@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
 	<!--Textos de prueba-->
-	<marcador nombre="m1">
+	<marcador nombre="wood">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
 				   		    ficha="*html+*body+*h1+Hola mundo*/h1+ */body+ */html+"
@@ -107,7 +107,7 @@
 	</marcador>
 
 
-	<marcador nombre="wood">
+	<marcador nombre="woo">
 		<elementoMultimedia category="modelo"
 							 posicionFicha="arriba" 
 						    ficha="http://www.google.com"
