@@ -15,7 +15,7 @@
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="m2">
+	<marcador nombre="chips">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
 		                    ficha="*html+*body+*h1+Esta es la fica para el texto 2*/h1+ */body+ */html+"
@@ -93,7 +93,7 @@
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="chips">
+	<marcador nombre="chip">
 		<elementoMultimedia category="modelo"
 						    posicionFicha="arriba" 
 				    	    ficha="http://www.google.com"
