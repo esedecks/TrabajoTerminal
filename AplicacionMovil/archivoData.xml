@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
 	<!--Textos de prueba-->
-	<marcador nombre="wood">
+	<marcador nombre="chips">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
 				   		    ficha="*html+*body+*h1+Hola mundom esta es la ficha para el texto 1*/h1+ */body+ */html+"
@@ -15,7 +15,7 @@
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="chips">
+	<marcador nombre="stones">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
 		                    ficha="*html+*body+*h1+Esta es la fica para el texto 2*/h1+ */body+ */html+"
@@ -30,7 +30,7 @@
 
 
 	<!--Videos de prueba-->
-	<marcador nombre="m3">
+	<marcador nombre="derecha">
 		<elementoMultimedia category="video"
 						    posicionFicha="arriba"
 				   		    ficha="http://www.google.com"
@@ -42,7 +42,7 @@
 		</elementoMultimedia>
 	</marcador>
 
-	<marcador nombre="m4">
+	<marcador nombre="frente">
 		<elementoMultimedia category="video"
 					        posicionFicha="arriba"
 						    ficha="http://www.google.com"
@@ -56,7 +56,7 @@
 	
 
 	<!--imagenes de prueba-->
-	<marcador nombre="m5">
+	<marcador nombre="izquierda">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
 		                    ficha="http://www.google.com"
@@ -67,7 +67,7 @@
 				    />
 		</elementoMultimedia>
 	</marcador>
-	<marcador nombre="rocas_intef">
+	<marcador nombre="top">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
 		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
@@ -81,7 +81,7 @@
 	
 	<!--Modelos de prueba-->
 
-	<marcador nombre="rocas_inte">
+	<marcador nombre="tarmac">
 		<elementoMultimedia category="modelo" 
 						    posicionFicha="abajo" 
 				    	    ficha="*html+*body+*h1+Hola mundo*/h1+*h2+1200 A.C a 1100 A.C*/h2+*p+Esto es una descripción para el elemento Multimedia*p+ */body+ */html+"
@@ -93,7 +93,7 @@
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="chip">
+	<marcador nombre="wood">
 		<elementoMultimedia category="modelo"
 						    posicionFicha="arriba" 
 				    	    ficha="http://www.google.com"
@@ -107,7 +107,7 @@
 	</marcador>
 
 
-	<marcador nombre="woo">
+	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo"
 							 posicionFicha="arriba" 
 						    ficha="http://www.google.com"
@@ -122,7 +122,7 @@
 
 
 	<!--Audio de prueba-->
-	<marcador nombre="m9">
+	<marcador nombre="marker">
 		<elementoMultimedia category="audio"
 						    posicionFicha="arriba" 
 						   ficha="http://www.google.com"
