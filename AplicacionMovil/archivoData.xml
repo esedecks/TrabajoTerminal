@@ -4,10 +4,10 @@
 	<marcador nombre="wood">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
-				   		    ficha="*html+*body+*h1+Hola mundo*/h1+ */body+ */html+"
+				   		    ficha="*html+*body+*h1+Hola mundom esta es la ficha para el texto 1*/h1+ */body+ */html+"
 				            fichaSize="1dp">
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
-				   color="#FFFF44" 
+				   color="#03396c" 
 				   size="42" 
 				   fuente="Arial" 
 				   
@@ -18,10 +18,10 @@
 	<marcador nombre="m2">
 		<elementoMultimedia category="texto"
 						    posicionFicha="arriba"
-		                    ficha="*html+*body+*h1+Hola mundo*/h1+ */body+ */html+"
+		                    ficha="*html+*body+*h1+Esta es la fica para el texto 2*/h1+ */body+ */html+"
 		    			    fichaSize="1dp">
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" 
-				   color="#FFFF44" 
+				   color="#ff0000" 
 		    	   size="30" 
 		           fuente="Arial"
 		           />
