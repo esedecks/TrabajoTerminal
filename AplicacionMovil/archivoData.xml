@@ -17,7 +17,7 @@
 	
 	<marcador nombre="stones">
 		<elementoMultimedia category="texto"
-						    posicionFicha="arriba"
+						    posicionFicha="abajo"
 		                    ficha="*html+*body+*h1+Esta es la fica para el texto 2*/h1+ */body+ */html+"
 		    			    fichaSize="1dp">
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" 
