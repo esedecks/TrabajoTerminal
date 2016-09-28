@@ -9,8 +9,9 @@
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
 				   color="#03396c" 
 				   size="42" 
-				   fuente="Arial" 
-				   
+				   fuente="Arial"
+				   padding="20,40,20,20" 
+				   backgroundColor="#80000000"	   
 				   />
 		</elementoMultimedia>
 	</marcador>
@@ -24,6 +25,8 @@
 				   color="#ff0000" 
 		    	   size="30" 
 		           fuente="Arial"
+		           padding="40,40,40,40"
+		           backgroundColor="#00000000" 
 		           />
 		</elementoMultimedia>
 	</marcador>
