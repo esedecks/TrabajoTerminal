@@ -79,7 +79,7 @@
  						    posicionFicha="abajo"
 		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
 						    fichaSize="200">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" 
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/monalisa.jpg" 
 				    escala="80.3f"
 				    />
 		</elementoMultimedia>
