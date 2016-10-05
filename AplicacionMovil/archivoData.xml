@@ -1,3 +1,5 @@
+<!-- Entonces el siguiente paso al igual que sucedió con los modelos 3d es cargas las imágenes dinamicamente, por lo tanto 
+haz un push al repo con este archivo actualizando otra imagen en la url-->
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
 	<!--Textos de prueba-->
@@ -60,16 +62,17 @@
 		</elementoMultimedia>
 	</marcador>
 	
-
+	<!--Para las imagenes como para los modelos 3D se permite un factor de escala que va desde  50 a 250 es un flotante 
+		formato es : xxx.xxxf
+	-->
 	<!--imagenes de prueba-->
 	<marcador nombre="izquierda">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
 		                    ficha="http://www.google.com"
 						    fichaSize="200">
-			<imagen url="" 
-				    alto="120" 
-				    ancho="100"
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/uniformeCartero.JPG" 
+				    escala="100.3f"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -79,8 +82,7 @@
 		                    ficha="https://es.wikipedia.org/wiki/La_Gioconda"
 						    fichaSize="200">
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/bascula.JPG" 
-				    alto="1320" 
-				    ancho="1300"
+				    escala="80.3f"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -93,7 +95,7 @@
 				    	    ficha="*html+*body+*h1+Hola mundo*/h1+*h2+1200 A.C a 1100 A.C*/h2+*p+Esto es una descripción para el elemento Multimedia*p+ */body+ */html+"
 				    	    fichaSize="200">
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/triangulos.txt" 
-				    escala="50.3f"
+				    escala="60.3f"
 				    urlTextura="sinTextura"
 				    />
 		</elementoMultimedia>
@@ -106,7 +108,7 @@
 				            fichaSize="200"
 							>
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.txt" 
-				    escala="50.3f"
+				    escala="70.3f"
 				    urlTextura="sinTextura"
 				    />
 		</elementoMultimedia>
