@@ -120,7 +120,7 @@
 						    fichaSize="200">
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" 
 				    escala="50.3f"
-				    urlTextura="sinTextura"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/gorraCartero.JPG"
 				    />
 		</elementoMultimedia>
 	</marcador>
