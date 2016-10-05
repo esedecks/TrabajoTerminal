@@ -93,8 +93,8 @@
 				    	    ficha="*html+*body+*h1+Hola mundo*/h1+*h2+1200 A.C a 1100 A.C*/h2+*p+Esto es una descripción para el elemento Multimedia*p+ */body+ */html+"
 				    	    fichaSize="200">
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/triangulos.txt" 
-				    escala="60.3f"
-				    urlTextura="sinTextura"
+				    escala="80.3f"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/gorraCartero.JPG"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -107,7 +107,7 @@
 							>
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.txt" 
 				    escala="70.3f"
-				    urlTextura="sinTextura"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/wood.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
