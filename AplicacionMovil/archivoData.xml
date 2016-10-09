@@ -92,7 +92,7 @@
 						    posicionFicha="abajo" 
 				    	    ficha="*html+*body+*h1+Hola mundo*/h1+*h2+1200 A.C a 1100 A.C*/h2+*p+Esto es una descripción para el elemento Multimedia*p+ */body+ */html+"
 				    	    fichaSize="200">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/triangulos.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/modeloKinect.txt" 
 				    escala="130.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/estampasAntiguas.JPG"
 				    />
@@ -118,7 +118,7 @@
 							 posicionFicha="arriba" 
 						    ficha="http://www.google.com"
 						    fichaSize="200">
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/chango.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/david.txt" 
 				    escala="160.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/implementos.JPG"
 				    />
