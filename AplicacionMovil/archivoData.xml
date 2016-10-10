@@ -77,7 +77,7 @@
 	<marcador nombre="top">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
-		                    ficha="*html+*body background="http://www.freejpg.com.ar/asset/900/60/6046/F100006093.jpg" +*h1  style="color:white;"+La Monalisa*/h1+ *h2 style="color:rgb(0,255,255);"+1200 A.C 1100 A.C*/h2+*h3 style="color:white;"+ La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de art*/h3+*/body+ */html+"
+		                    ficha="*html+*body background=http://www.freejpg.com.ar/asset/900/60/6046/F100006093.jpg +*h1  style=color:white;+La Monalisa*/h1+ *h2 style=color:rgb(0,255,255);+1200 A.C 1100 A.C*/h2+*h3 style=color:white;+ La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de art*/h3+*/body+ */html+"
 						    fichaSize="200">
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/monalisa.jpg" 
 				    escala="200.3f"
