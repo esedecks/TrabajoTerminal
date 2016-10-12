@@ -67,9 +67,9 @@
 	<marcador nombre="izquierda">
  		<elementoMultimedia category="imagen"
  						    posicionFicha="abajo"
-		                    ficha="http://www.google.com"
+		                    ficha="*html+*body background=http://www.freejpg.com.ar/asset/900/60/6046/F100006093.jpg +*h1  style=color:white;+La Monalisa*/h1+ *h2 style=color:rgb(0,255,255);+1200 A.C 1100 A.C*/h2+*h3 style=color:white;+  El museo de Geología es una dependencia de la Escuela Superior de Ingeniería y Arquitectura del Instituto Politécnico Nacional. Desde  noviembre de 1973 se comenzaron las labores en el museo. Encontrará una colección de 600 ejemplares de minerales, 308 especímenes de rocas, 300 ejemplares de fósiles (entre ellos los de un mamut y un caballo), entre otras piezas. Además el museo cuenta con una colección de piedras preciosas en bruto y un diamante. El Museo cuenta con tres áreas museográficas: mineralogía, petrográfica, paleontología. Se exhiben variados especímenes geológicos de distintas partes de la República. */h3+*/body+ */html+"
 						    fichaSize="200">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/uniformeCartero.JPG" 
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/CuadroCompleto.png" 
 				    escala="250.3f"
 				    />
 		</elementoMultimedia>
