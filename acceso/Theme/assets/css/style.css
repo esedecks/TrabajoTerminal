@@ -22,6 +22,7 @@ input,
 select,
 textarea {
     color: #222;
+    background-color: #123;
 }
 
 /*
@@ -408,12 +409,12 @@ h1, h2, h3, h4, h5, h6 {
 	display: block;
 	margin-top: 80px;
 	margin-bottom: 80px;
-	background-color: #f3f3f3;
+/*background-color: #f3f3f3;*/
 }
 
 /* Contact Wrap */
 #contactwrap {
-	background-color: #2f2f2f;
+	/*background-color: #2f2f2f;*/
 	margin-top: 0px;
 	padding-top: 25px;
 	padding-bottom: 25px;
