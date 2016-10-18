@@ -68,14 +68,15 @@ html,
 body {
     height: 100%;
     background: transparent; 
+    color: #1AE;
+
 }
 
 body {
     font-family: "Lato" sans-serif;
     font-weight: 400;
     font-size: 16px;
-    color: #01f;
-
+   
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
 }
