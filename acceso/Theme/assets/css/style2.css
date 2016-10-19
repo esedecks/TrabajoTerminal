@@ -508,6 +508,8 @@ hr.style17:after {
 	transform: rotate(60deg);
 }
 .textoParrafo{
-	color:#0080ff;
+	color:#ffff1c;
+	font-style: normal;
+ 	font-weight: bold;
 
 }
