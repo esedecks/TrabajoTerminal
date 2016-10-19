@@ -68,7 +68,7 @@ html,
 body {
     height: 100%;
     background: transparent; 
-    color: #2590ff;
+    color: #0040ff;
 
 }
 
@@ -506,4 +506,8 @@ hr.style17:after {
 	-webkit-transform: rotate(60deg);
 	-moz-transform: rotate(60deg);
 	transform: rotate(60deg);
+}
+.textoParrafo{
+	color:#0080ff;
+
 }
