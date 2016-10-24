@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
 	<!--Audio de prueba-->
+	<!--la ficha entonces deja de tener "tamaño" y "posicion" porque ocupa toda la pantala-->
 	<marcador nombre="marker">
 		<elementoMultimedia category="audio"
-						    posicionFicha="arriba" 
-						   ficha="http://www.google.com"
-						   fichaSize="150">
+						    ficha="http://www.google.com"
+						    >
 			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/pista1.mp3" 
 				   />
 		</elementoMultimedia>
 	</marcador>
 	<marcador nombre="frente">
 		<elementoMultimedia category="audio"
-						    posicionFicha="arriba" 
 						   ficha="http://www.google.com"
-						   fichaSize="150">
+						   >
 			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/pista1.mp3" 
 				   />
 		</elementoMultimedia>
@@ -23,9 +22,8 @@
 	<!--Videos de prueba-->
 	<marcador nombre="izquierda">
 		<elementoMultimedia category="video"
-						    posicionFicha="arriba"
 				   		    ficha="http://www.google.com"
-				   		    fichaSize="210">
+				   		    >
 			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video1.MP4" 
 				   alto="200" 
 				   ancho="200"			   
@@ -35,9 +33,8 @@
 
 	<marcador nombre="derecha">
 		<elementoMultimedia category="video"
-					        posicionFicha="arriba"
 						    ficha="http://www.google.com"
-						    fichaSize="190">
+						    >
 			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video2.MP4" 
 				   alto="200" 
 				   ancho="299"
@@ -50,9 +47,8 @@
 	<!--imagenes de prueba-->
 	<marcador nombre="top">
  		<elementoMultimedia category="imagen"
- 						    posicionFicha="abajo"
-		                    ficha="*html+*body background=http://www.freejpg.com.ar/asset/900/60/6046/F100006093.jpg +*h1  style=color:white;+La Monalisa*/h1+ *h2 style=color:rgb(0,255,255);+1200 A.C 1100 A.C*/h2+*h3 style=color:white;+  El museo de Geología es una dependencia de la Escuela Superior de Ingeniería y Arquitectura del Instituto Politécnico Nacional. Desde  noviembre de 1973 se comenzaron las labores en el museo. Encontrará una colección de 600 ejemplares de minerales, 308 especímenes de rocas, 300 ejemplares de fósiles (entre ellos los de un mamut y un caballo), entre otras piezas. Además el museo cuenta con una colección de piedras preciosas en bruto y un diamante. El Museo cuenta con tres áreas museográficas: mineralogía, petrográfica, paleontología. Se exhiben variados especímenes geológicos de distintas partes de la República. */h3+*/body+ */html+"
-						    fichaSize="200">
+		                    ficha="*html+*body +*h1  style=color:white;+La Monalisa*/h1+ *h2 style=color:rgb(0,255,255);+1200 A.C 1100 A.C*/h2+*h3 style=color:white;+  El museo de Geología es una dependencia de la Escuela Superior de Ingeniería y Arquitectura del Instituto Politécnico Nacional. Desde  noviembre de 1973 se comenzaron las labores en el museo. Encontrará una colección de 600 ejemplares de minerales, 308 especímenes de rocas, 300 ejemplares de fósiles (entre ellos los de un mamut y un caballo), entre otras piezas. Además el museo cuenta con una colección de piedras preciosas en bruto y un diamante. El Museo cuenta con tres áreas museográficas: mineralogía, petrográfica, paleontología. Se exhiben variados especímenes geológicos de distintas partes de la República. */h3+*/body+ */html+"
+						    >
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/monalisa.jpg" 
 				    escala="650.3f"
 				    />
@@ -60,9 +56,8 @@
 	</marcador>
 	<marcador nombre="tarmac">
  		<elementoMultimedia category="imagen"
- 						    posicionFicha="abajo"
-		                    ficha="*html+*body background=http://www.freejpg.com.ar/asset/900/60/6046/F100006093.jpg +*h1  style=color:white;+La Monalisa*/h1+ *h2 style=color:rgb(0,255,255);+1200 A.C 1100 A.C*/h2+*h3 style=color:white;+ La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de art*/h3+*/body+ */html+"
-						    fichaSize="200">
+		                    ficha="*html+*body  +*h1  style=color:white;+La Monalisa*/h1+ *h2 style=color:rgb(0,255,255);+1200 A.C 1100 A.C*/h2+*h3 style=color:white;+ La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de arte, La monalisa fue una de las primeras obras de arte La monalisa fue una de las primeras obras de art*/h3+*/body+ */html+"
+						    >
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/monalisa.jpg" 
 				    escala="200.3f"
 				    />
@@ -75,33 +70,31 @@
 	<!--Textos de prueba-->
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="texto"
-						    posicionFicha="arriba"
 				   		    ficha="*html+*body+*h1+Hola mundom esta es la ficha para el texto 1*/h1+ */body+ */html+"
-				            fichaSize="220"
-
 				            >
 			<!--Los valores recomendados para ficha Size son de 100 a 220-->
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
 				   color="#03396c" 
-				   size="42" 
+				   size="36" 
 				   fuente="orange juice 2.0.ttf"
 				   padding="20,40,20,20" 
-				   backgroundColor="#80000000"	   
+				   backgroundColor="#80000000"
+				   posicion="arriba"	   
 				   />
 		</elementoMultimedia>
 	</marcador>
 	
 	<marcador nombre="stones">
 		<elementoMultimedia category="texto"
-						    posicionFicha="abajo"
 		                    ficha="*html+*body+*h1+Esta es la fica para el texto 2*/h1+ */body+ */html+"
-		    			    fichaSize="200">
+		    			    >
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" 
 				   color="#ff0000" 
 		    	   size="30" 
 		           fuente="SnackerComic.ttf"
 		           padding="40,40,40,40"
 		           backgroundColor="#00000000" 
+		           posicion="abajo"
 		           />
 		</elementoMultimedia>
 	</marcador>
@@ -114,9 +107,8 @@
 
 	<marcador nombre="chips">
 		<elementoMultimedia category="modelo" 
-						    posicionFicha="abajo" 
 				    	    ficha="*html+*body+*h1+Hola mundo*/h1+*h2+1200 A.C a 1100 A.C*/h2+*p+Esto es una descripción para el elemento Multimedia*p+ */body+ */html+"
-				    	    fichaSize="200">
+				    	    >
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/modeloKinect.txt" 
 				    escala="130.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/estampasAntiguas.JPG"
@@ -126,9 +118,8 @@
 	
 	<marcador nombre="wood">
 		<elementoMultimedia category="modelo"
-						    posicionFicha="arriba" 
 				    	    ficha="http://www.google.com"
-				            fichaSize="200"
+				           
 							>
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cube.txt" 
 				    escala="280.3f"
