@@ -86,7 +86,7 @@
 	
 	<marcador nombre="stones">
 		<elementoMultimedia category="texto"
-		                    ficha="*html+*body+*h1+Esta es la fica para el texto 2*/h1+ */body+ */html+"
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 		    			    >
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" 
 				   color="#ff0000" 
