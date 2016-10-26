@@ -108,7 +108,7 @@
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/raptor.txt" 
-				    escala="130.3f"
+				    escala="100.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/wood.jpg"
 				    />
 		</elementoMultimedia>
@@ -120,7 +120,7 @@
 				           
 							>
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/rex.txt" 
-				    escala="280.3f"
+				    escala="70.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/wood.jpg"
 				    />
 		</elementoMultimedia>
@@ -142,6 +142,8 @@
 	Los que se pueden seon wood.txt
 							taza.txt
 							roca1.txt
+							raptor funciona pero lo pone muy lejos del marcador. 
+							rex funciona 
 -->
 
 
