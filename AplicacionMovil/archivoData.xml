@@ -119,7 +119,7 @@
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				           
 							>
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tierra.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tigre.txt" 
 				    escala="70.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/wood.jpg"
 				    />
@@ -145,6 +145,7 @@
 							raptor funciona pero lo pone muy lejos del marcador. 
 							pex.txt funciona
 							rex funciona 
+							tierra funciona
 -->
 
 
