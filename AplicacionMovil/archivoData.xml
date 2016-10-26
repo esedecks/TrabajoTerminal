@@ -107,9 +107,9 @@
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/roca1.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/raptor.txt" 
 				    escala="130.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/estampasAntiguas.JPG"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/Rock-Texture-Surface.jpg.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -138,6 +138,10 @@
 				    />
 		</elementoMultimedia>
 	</marcador>
+
+	Los que se pueden seon wood.txt
+							taza.txt
+							roca1.txt
 -->
 
 
