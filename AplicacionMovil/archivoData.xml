@@ -119,7 +119,7 @@
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				           
 							>
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/cubeTexture.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/rex.txt" 
 				    escala="70.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/cube.png"
 				    />
