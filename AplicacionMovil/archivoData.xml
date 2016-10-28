@@ -48,7 +48,7 @@
 	<marcador nombre="top">
  		<elementoMultimedia category="imagen"
 		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/monalisa.jpg" 
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/Render2.png" 
 				    escala="270.3f"
 				    />
 		</elementoMultimedia>
@@ -56,7 +56,7 @@
 	<marcador nombre="tarmac">
  		<elementoMultimedia category="imagen"
 		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/monalisa.jpg" 
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/trex.png" 
 				    escala="200.3f"
 				    />
 		</elementoMultimedia>
