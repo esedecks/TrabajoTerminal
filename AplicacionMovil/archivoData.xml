@@ -120,7 +120,7 @@
 				           
 							>
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tierraSmother.txt" 
-				    escala="70.3f"
+				    escala="150.3f"
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/eart.jpg"
 				    />
 		</elementoMultimedia>
