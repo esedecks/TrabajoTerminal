@@ -107,9 +107,9 @@
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/pex.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tierraSmother.txt" 
 				    escala="100.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/wood.jpg"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/eart.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
