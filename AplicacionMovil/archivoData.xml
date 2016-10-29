@@ -6,7 +6,7 @@
 		<elementoMultimedia category="audio"
 						    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 						    >
-			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/pista1.mp3" 
+			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/estudiaPal.mp3" 
 				   />
 		</elementoMultimedia>
 	</marcador>
@@ -14,7 +14,7 @@
 		<elementoMultimedia category="audio"
 						   ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 						   >
-			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/pista1.mp3" 
+			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/dedicaGeo.mp3" 
 				   />
 		</elementoMultimedia>
 	</marcador>
@@ -24,7 +24,7 @@
 		<elementoMultimedia category="video"
 				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo.html"
 				   		    >
-			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video1.MP4" 
+			<video url="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo2.html" 
 				   alto="200" 
 				   ancho="200"			   
 				   />
