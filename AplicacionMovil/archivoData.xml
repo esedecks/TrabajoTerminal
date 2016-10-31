@@ -121,7 +121,7 @@
 							>
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/goldfish.txt" 
 				    escala="150.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/GOLDFISH.TIF"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/RockTexture.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
