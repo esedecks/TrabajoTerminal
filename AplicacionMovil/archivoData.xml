@@ -138,6 +138,16 @@
 		</elementoMultimedia>
 	</marcador>
 
+<marcador nombre="chips">
+		<elementoMultimedia category="modelo" 
+				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
+				    	    >
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tierrah.txt" 
+				    escala="100.3f"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/eart.jpg"
+				    />
+		</elementoMultimedia>
+	</marcador>
 <!--
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo"
