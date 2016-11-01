@@ -119,9 +119,9 @@
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				           
 							>
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tiroRex.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/raptor.txt" 
 				    escala="150.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/GRANDECO.JPG"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/raptor.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -146,6 +146,8 @@
 							pex.txt funciona
 							rex funciona 
 							tierra funciona
+	Modelos con texturas 
+		tierrah -> hear1.jpg
 -->
 
 
