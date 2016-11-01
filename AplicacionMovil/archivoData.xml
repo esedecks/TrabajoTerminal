@@ -109,7 +109,7 @@
 				    	    >
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tierrah.txt" 
 				    escala="100.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/earth.jpg"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/eart.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
