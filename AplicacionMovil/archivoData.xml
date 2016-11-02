@@ -103,7 +103,7 @@
 	
 	<!--Modelos de prueba-->
 
-	<marcador nombre="chips">
+	<marcador nombre="mar1">
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
@@ -114,7 +114,7 @@
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="wood">
+	<marcador nombre="mar2">
 		<elementoMultimedia category="modelo"
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				           
