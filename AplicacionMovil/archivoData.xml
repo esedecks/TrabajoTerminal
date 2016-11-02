@@ -20,7 +20,7 @@
 	</marcador>
 
 	<!--Videos de prueba-->
-	<marcador nombre="izquierda">
+	<marcador nombre="mar3">
 		<elementoMultimedia category="video"
 				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo.html"
 				   		    >
@@ -31,7 +31,7 @@
 		</elementoMultimedia>
 	</marcador>
 
-	<marcador nombre="derecha">
+	<marcador nombre="mar4">
 		<elementoMultimedia category="video"
 						    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo2.html"
 						    >
