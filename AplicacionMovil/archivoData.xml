@@ -62,9 +62,6 @@
 		</elementoMultimedia>
 	</marcador>
 	
-
-
-
 	<!--Textos de prueba-->
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="texto"
@@ -98,8 +95,6 @@
 	</marcador>
 
 
-
-	
 	
 	<!--Modelos de prueba-->
 
