@@ -69,7 +69,7 @@
 				            >
 			<!--Los valores recomendados para ficha Size son de 100 a 220-->
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
-				   color="#03396c" 
+				   color="#fff400" 
 				   size="36" 
 				   fuente="orange juice 2.0.ttf"
 				   padding="20,40,20,20" 
