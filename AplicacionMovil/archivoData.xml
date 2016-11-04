@@ -74,7 +74,7 @@
 				   fuente="orange juice 2.0.ttf"
 				   padding="20,40,20,20" 
 				   backgroundColor="#80000000"
-				   posicion="arriba"	   
+				   posicion="abajo"	   
 				   />
 		</elementoMultimedia>
 	</marcador>
