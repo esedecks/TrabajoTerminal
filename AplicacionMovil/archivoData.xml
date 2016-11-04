@@ -47,7 +47,7 @@
 	<!--imagenes de prueba-->
 	<marcador nombre="top">
  		<elementoMultimedia category="imagen"
-		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html">
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/GOLDFISH.JPG" 
 				    escala="270.3f"
 				    />
@@ -68,7 +68,7 @@
 	<!--Textos de prueba-->
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="texto"
-				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
+				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateTexto.html"
 				            >
 			<!--Los valores recomendados para ficha Size son de 100 a 220-->
 			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
@@ -116,7 +116,7 @@
 	
 	<marcador nombre="wood">
 		<elementoMultimedia category="modelo"
-				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
+				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateModelo.html"
 				           
 							>
 			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/raptor.txt" 
