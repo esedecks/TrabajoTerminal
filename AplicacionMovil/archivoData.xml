@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elementosMultimedia
+<elementosMultimedia>
 	<!--Audio de prueba-->
 	<!--la ficha entonces deja de tener "tamaño" y "posicion" porque ocupa toda la pantala-->
 	<marcador nombre="marker">
