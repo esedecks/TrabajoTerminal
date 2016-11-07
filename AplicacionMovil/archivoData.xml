@@ -102,9 +102,9 @@
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/hueso.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/farmHouse.txt" 
 				    escala="100.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/bonetexture.jpg"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/farmhouse-texture.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -145,7 +145,8 @@
 		tierrah -> hear1.jpg
 		raptor -> raptor.jpg
 		roca1.txt-> RockTexture.jpg
-		roca2.txt ->rock2texture.jpg // ver los ejes de coordenadas 
+		roca2.txt ->rock2texture.jpg // ver los ejes de coordenadas  
+		hueso.txt -> bonetexture.jpg //modelo muy pesado y no se renderiza bien
 		
 -->
 
