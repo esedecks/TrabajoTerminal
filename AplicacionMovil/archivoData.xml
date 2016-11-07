@@ -102,9 +102,9 @@
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tierrah.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/roca1.txt" 
 				    escala="100.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/earth1.jpg"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/RockTexture.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -114,9 +114,9 @@
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateModelo.html"
 				           
 							>
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/raptor.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/roca2.txt" 
 				    escala="90.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/raptor.jpg"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/rock2texture.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
