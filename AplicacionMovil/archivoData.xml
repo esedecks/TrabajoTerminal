@@ -24,10 +24,7 @@
 		<elementoMultimedia category="video"
 				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo.html"
 				   		    >
-			<video url="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo2.html" 
-				   alto="200" 
-				   ancho="200"			   
-				   />
+		
 		</elementoMultimedia>
 	</marcador>
 
@@ -35,10 +32,7 @@
 		<elementoMultimedia category="video"
 						    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo2.html"
 						    >
-			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video2.MP4" 
-				   alto="200" 
-				   ancho="299"
-				   />
+			
 		</elementoMultimedia>
 	</marcador>
 <!--Para las imagenes como para los modelos 3D se permite un factor de escala que va desde  50 a 250 es un flotante 
