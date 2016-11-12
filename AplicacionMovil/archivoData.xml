@@ -2,7 +2,7 @@
 <elementosMultimedia>
 	<!--Audio de prueba-->
 	<!--la ficha entonces deja de tener "tamaño" y "posicion" porque ocupa toda la pantala-->
-	<marcador nombre="marker" id="1234">
+	<marcador nombre="marker">
 		<elementoMultimedia category="audio"
 						    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 						    >
@@ -10,7 +10,7 @@
 				   />
 		</elementoMultimedia>
 	</marcador>
-	<marcador nombre="frente" id="1234">
+	<marcador nombre="frente">
 		<elementoMultimedia category="audio"
 						   ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 						   >
@@ -20,7 +20,7 @@
 	</marcador>
 
 	<!--Videos de prueba-->
-	<marcador nombre="mar3" id="1234">
+	<marcador nombre="mar3">
 		<elementoMultimedia category="video"
 				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo.html"
 				   		    >
@@ -30,7 +30,7 @@
 		</elementoMultimedia>
 	</marcador>
 
-	<marcador nombre="mar4" id="1234">
+	<marcador nombre="mar4">
 		<elementoMultimedia category="video"
 						    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo2.html"
 						    >
@@ -43,7 +43,7 @@
 		formato es : xxx.xxxf
 	-->
 	<!--imagenes de prueba-->
-	<marcador nombre="top" id="1234">
+	<marcador nombre="top">
  		<elementoMultimedia category="imagen"
 		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/GOLDFISH.JPG" 
@@ -51,7 +51,7 @@
 				    />
 		</elementoMultimedia>
 	</marcador>
-	<marcador nombre="tarmac" id="1234">
+	<marcador nombre="tarmac">
  		<elementoMultimedia category="imagen"
 		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html">
 			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/SABTOOTH.JPG" 
@@ -61,7 +61,7 @@
 	</marcador>
 	
 	<!--Textos de prueba-->
-	<marcador nombre="rocas_intef" id="1234">
+	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="texto"
 				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateTexto.html"
 				            >
@@ -77,7 +77,7 @@
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="stones" id="1234">
+	<marcador nombre="stones">
 		<elementoMultimedia category="texto"
 		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 		    			    >
@@ -96,7 +96,7 @@
 	
 	<!--Modelos de prueba-->
 
-	<marcador nombre="mar1" id="1234">
+	<marcador nombre="mar1">
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
@@ -106,7 +106,7 @@
 				    />
 		</elementoMultimedia>
 	</marcador>	
-	<marcador nombre="mar2" id="1234">
+	<marcador nombre="mar2">
 		<elementoMultimedia category="modelo"
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateModelo.html"
 				           
@@ -118,7 +118,7 @@
 		</elementoMultimedia>
 	</marcador>
 	
-	<marcador nombre="wood" id="1234">
+	<marcador nombre="wood">
 		<elementoMultimedia category="modelo"
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateModelo.html"
 				           
