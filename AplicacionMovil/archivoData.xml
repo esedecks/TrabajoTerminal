@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
 	<!--Modelos de prueba-->
-<!--
 	<marcador nombre="chips">
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
@@ -69,7 +68,7 @@
 				    />
 		</elementoMultimedia>
 	</marcador>
--->
+
 	<!--
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo"
@@ -105,7 +104,7 @@
 
 
 
--->
+<!--
 <marcador nombre="chips">
  		<elementoMultimedia category="imagen"
 		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
@@ -154,6 +153,6 @@
 				    />
 		</elementoMultimedia>
 	</marcador>
-
+-->
 
 </elementosMultimedia>
