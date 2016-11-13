@@ -1,119 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
-	<!--Audio de prueba-->
-	<!--la ficha entonces deja de tener "tamaño" y "posicion" porque ocupa toda la pantala-->
-	<marcador nombre="marker">
-		<elementoMultimedia category="audio"
-						    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
-						    >
-			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/estudiaPal.mp3" 
-				   />
-		</elementoMultimedia>
-	</marcador>
-	<marcador nombre="frente">
-		<elementoMultimedia category="audio"
-						   ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
-						   >
-			<audio url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/audio/dedicaGeo.mp3" 
-				   />
-		</elementoMultimedia>
-	</marcador>
-
-	<!--Videos de prueba-->
-	<marcador nombre="mar3">
-		<elementoMultimedia category="video"
-				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo.html"
-				   		    >
-			<video url="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo2.html" 
-				   			   
-				   />
-		</elementoMultimedia>
-	</marcador>
-
-	<marcador nombre="mar4">
-		<elementoMultimedia category="video"
-						    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateVideo2.html"
-						    >
-			<video url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/video/video2.MP4" 
-				
-				   />
-		</elementoMultimedia>
-	</marcador>
-<!--Para las imagenes como para los modelos 3D se permite un factor de escala que va desde  50 a 250 es un flotante 
-		formato es : xxx.xxxf
-	-->
-	<!--imagenes de prueba-->
-	<marcador nombre="top">
- 		<elementoMultimedia category="imagen"
-		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/GOLDFISH.JPG" 
-				    escala="270.3f"
-				    />
-		</elementoMultimedia>
-	</marcador>
-	<marcador nombre="tarmac">
- 		<elementoMultimedia category="imagen"
-		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html">
-			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/SABTOOTH.JPG" 
-				    escala="600.3f"
-				    />
-		</elementoMultimedia>
-	</marcador>
-	
-	<!--Textos de prueba-->
-	<marcador nombre="rocas_intef">
-		<elementoMultimedia category="texto"
-				   		    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateTexto.html"
-				            >
-			<!--Los valores recomendados para ficha Size son de 100 a 220-->
-			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto1.txt" 
-				   color="#fff400" 
-				   size="36" 
-				   fuente="orange juice 2.0.ttf"
-				   padding="20,40,20,20" 
-				   backgroundColor="#80000000"
-				   posicion="abajo"	   
-				   />
-		</elementoMultimedia>
-	</marcador>
-	
-	<marcador nombre="stones">
-		<elementoMultimedia category="texto"
-		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
-		    			    >
-			<texto url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/texto/texto2.txt" 
-				   color="#ff0000" 
-		    	   size="30" 
-		           fuente="SnackerComic.ttf"
-		           padding="40,40,40,40"
-		           backgroundColor="#00000000" 
-		           posicion="abajo"
-		           />
-		</elementoMultimedia>
-	</marcador>
-
-
-	
 	<!--Modelos de prueba-->
 
-	<marcador nombre="mar1">
+	<marcador nombre="chips">
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
 				    	    >
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/raptor.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/roca1.txt" 
 				    escala="100.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/raptor.jpg"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/RockTexture.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>	
-	<marcador nombre="mar2">
+	<marcador nombre="stones">
 		<elementoMultimedia category="modelo"
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateModelo.html"
 				           
 							>
-			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/roca1.txt" 
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/roca2.txt" 
 				    escala="90.3f"
-				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/RockTexture.jpg"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/rock2texture.jpg"
 				    />
 		</elementoMultimedia>
 	</marcador>
@@ -128,7 +34,42 @@
 				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/earth1.jpg"
 				    />
 		</elementoMultimedia>
-	</marcador><!--
+	</marcador>
+
+<marcador nombre="mar4">
+		<elementoMultimedia category="modelo" 
+				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
+				    	    >
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/raptor.txt" 
+				    escala="100.3f"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/raptor.jpg"
+				    />
+		</elementoMultimedia>
+	</marcador>	
+	<marcador nombre="mar3_video">
+		<elementoMultimedia category="modelo"
+				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateModelo.html"
+				           
+							>
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/roca1.txt" 
+				    escala="90.3f"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/RockTexture.jpg"
+				    />
+		</elementoMultimedia>
+	</marcador>
+	
+	<marcador nombre="mar1">
+		<elementoMultimedia category="modelo"
+				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateModelo.html"
+				           
+							>
+			<modelo url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/modelos3D/tierrah.txt" 
+				    escala="100.3f"
+				    urlTextura="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/texturas/earth1.jpg"
+				    />
+		</elementoMultimedia>
+	</marcador>
+	<!--
 	<marcador nombre="rocas_intef">
 		<elementoMultimedia category="modelo"
 							 posicionFicha="arriba" 
