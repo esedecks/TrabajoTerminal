@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elementosMultimedia>
 	<!--Modelos de prueba-->
-
+<!--
 	<marcador nombre="chips">
 		<elementoMultimedia category="modelo" 
 				    	    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/template.html"
@@ -97,7 +97,62 @@
 		hueso.txt -> bonetexture.jpg //modelo muy pesado y no se renderiza bien
 		farmhouse.txt ->farmhouse-texture.jpg // error en coordenadas
 		
+		roca1.txt -> RockTexture.jpg
+					 roca4t.jpg
+		roca2.txt -> rock2texture.jpg
+					 roca3t.jpg
+
+
+
 -->
+<marcador nombre="chips">
+ 		<elementoMultimedia category="imagen"
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/GOLDFISH.JPG" 
+				    escala="270.3f"
+				    />
+		</elementoMultimedia>
+	</marcador>
+	<marcador nombre="stones">
+ 		<elementoMultimedia category="imagen"
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/Cervantita.jpg" 
+				    escala="270.3f"
+				    />
+		</elementoMultimedia>
+	</marcador>
+	<marcador nombre="wood">
+ 		<elementoMultimedia category="imagen"
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/Calcedonia.jpg" 
+				    escala="270.3f"
+				    />
+		</elementoMultimedia>
+	</marcador>
+	<marcador nombre="mar4">
+ 		<elementoMultimedia category="imagen"
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/galena.jpg" 
+				    escala="270.3f"
+				    />
+		</elementoMultimedia>
+	</marcador>
+	<marcador nombre="mar3_video">
+ 		<elementoMultimedia category="imagen"
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/glasuralita.jpg" 
+				    escala="270.3f"
+				    />
+		</elementoMultimedia>
+	</marcador>
+	<marcador nombre="mar1">
+ 		<elementoMultimedia category="imagen"
+		                    ficha="http://esedecks.github.io/TrabajoTerminal/acceso/Theme/templateImagen.html">
+			<imagen url="http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/imagenes/riolita.jpg" 
+				    escala="270.3f"
+				    />
+		</elementoMultimedia>
+	</marcador>
 
 
 </elementosMultimedia>
