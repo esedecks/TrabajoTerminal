@@ -7,4 +7,4 @@ http://52.39.28.233/webmuseo/sources/xml/archivoData.xml
 //key2-fe1e866ee95c07abcc5205ffd28946123779ab91
 //rodgonza esedecks@gmail.com utilizar para pruebas
 key1-61bdbd8cb62bb39960b880f939299c25e7e7be3a
-key1-2d859090d372d84aed19a354001031ec0f54d479
+key2-2d859090d372d84aed19a354001031ec0f54d479
