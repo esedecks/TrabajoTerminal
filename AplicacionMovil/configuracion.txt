@@ -3,8 +3,8 @@ http://52.39.28.233/webmuseo/sources/xml/archivoData.xml
 //utilizar para pruebas
 //http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/archivoData.xml
 //Ariel jdecks.visible utilizar para tt
-key1-49ca3d2bd97e9f5eb71f6863930630b257c61862
-key2-fe1e866ee95c07abcc5205ffd28946123779ab91
+//key1-49ca3d2bd97e9f5eb71f6863930630b257c61862
+//key2-fe1e866ee95c07abcc5205ffd28946123779ab91
 //rodgonza esedecks@gmail.com utilizar para pruebas
-//key1-61bdbd8cb62bb39960b880f939299c25e7e7be3a
-//key2-2d859090d372d84aed19a354001031ec0f54d479
+key1-61bdbd8cb62bb39960b880f939299c25e7e7be3a
+key2-2d859090d372d84aed19a354001031ec0f54d479
