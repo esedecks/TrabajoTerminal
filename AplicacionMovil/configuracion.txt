@@ -1,4 +1,4 @@
-//utilizar para tt
+//utilizar para tt 2
 http://52.39.28.233/webmuseo/sources/xml/archivoData.xml
 //utilizar para pruebas
 //http://esedecks.github.io/TrabajoTerminal/AplicacionMovil/archivoData.xml
