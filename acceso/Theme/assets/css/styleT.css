@@ -480,10 +480,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container{
-background-color: #ccc;
+    background-color: #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
 
 }
 p{
     color:black;
     font-size: 20px;
+}
+#imagenMundo{
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+
 }
